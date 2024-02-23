@@ -1,17 +1,13 @@
 ---
 layout:     post
-title:      "如何评价 MIUI 6？"
+title:      "第一篇文章"
 date:       2014-08-16 12:00:00
 author:     "Hux"
 header-img: "img/post-bg-miui6.jpg"
 tags:
-    - 知乎
-    - 产品
-    - UX/UI
+    - 日常
+    - 校园
 ---
-
-> 这篇文章转载自[我在知乎上的回答](http://www.zhihu.com/question/24783844/answer/29286896)
-
 
 <div>
     <blockquote>MIUI 6，充满了“借鉴”，iOS 7 版的 Android……
