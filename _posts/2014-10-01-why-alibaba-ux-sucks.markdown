@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "第一篇文章"
-date:       2014-08-16 12:00:00
-author:     "Hux"
+date:       2024-02-24 16:23:00
+author:     "revo"
 header-img: "img/post-bg-miui6.jpg"
 tags:
     - 日常
@@ -10,12 +10,9 @@ tags:
 ---
 
 <div>
-    <blockquote>MIUI 6，充满了“借鉴”，iOS 7 版的 Android……
-        <br>米 4，碉堡了，不服跑个分，简直就是 iPhone 4……</blockquote>你们说得这些我一点都不反对。
+    <blockquote>当理想之间互相冲突的时候，我最终选择兼收并蓄。这几乎注定了我将无法真正实现理想，但至少足以治愈当下的我</blockquote>
+    <br>这是一篇测试，也是我简短的一篇自序。
     <br>
-    <br><b>可是，你们对小米的要求太高了</b>。
-    <br>
-    <br>其实小米说到底也不过是一个才初创4年的公司而已，
     <br><b>你是指望小米能引领一套新的设计风格？</b>
     <br><b>还是指望它能在国际上体现一下我国的自主创新能力？</b>
     <br>
