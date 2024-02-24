@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username: revo-prise
-zhihu_username: z0nda
+zhihu_username: fpmhwm
 github_username: revo-prise
 
 # Build settings
