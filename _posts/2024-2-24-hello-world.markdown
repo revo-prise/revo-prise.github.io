@@ -2,7 +2,7 @@
 layout:     post
 title:      "第一篇文章"
 date:       2024-02-24 16:23:00
-author:     "revo"
+author:     "Revo"
 header-img: "img/post-bg-yoshinociallo.jpg"
 tags:
     - 日常
