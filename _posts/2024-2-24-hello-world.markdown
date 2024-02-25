@@ -3,7 +3,7 @@ layout:     post
 title:      "第一篇文章"
 date:       2024-02-24 16:23:00
 author:     "Revo"
-header-img: "img/post-bg-yoshinociallo.jpg"
+header-img: "img/post-bg-helloworld.jpg"
 tags:
     - 日常
     - 校园
